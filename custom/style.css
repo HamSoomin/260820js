@@ -5,7 +5,7 @@
  }
 
  body {
-    background: #e9eceb;
+    background: ##fcf8de;
  }
 
  #wrapper {
@@ -16,7 +16,7 @@
 
  h1 {
     margin: 50px 0;
-    color: #717171;
+    color: #53d4a7;
     font-size: 4em;
     font-weight: normal;
  }
@@ -41,7 +41,7 @@ button:focus {
     outline: none;
 }
 button:hover, button.current {
-    background: #717171;
+    background: #53d4a7;
 }
 
 #list {
@@ -59,15 +59,15 @@ button:hover, button.current {
     justify-content: center;
     align-items: center;
 }
-#list li.pink {
-    background: #d0afb4;
+#list li.cat {
+    background: #b0e5fc;
 }
-#list li.purple {
-  background: #a08cc5;
+#list li.frog {
+  background: #c1fbb6;
 }
-#list li.green {
-  background: #598550;
+#list li.ham {
+  background: #fbceac;
 }
-#list li.orange {
-  background: #ffc489;
+#list li.bear {
+  background: #fcb7b0;
 }
